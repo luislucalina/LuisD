@@ -1,1 +1,3 @@
-g
+git status -> demonstra o estado do projeto (ficheiros ou alterações a adicionar).
+git add . -> adiciona todos os ficheiros
+git commit -m -> "mensagem" ->>> comenta 
